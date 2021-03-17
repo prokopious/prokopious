@@ -1,0 +1,1 @@
+I'm Todd. I rencently made a woodpecker identifier using TensorFlow.js. I've taught English in a few countries and enjoy learning about natural languages, JavaScript, birds, squirrels, chemistry, mathematics, perfumery, and Byzantine history. 
